@@ -1,0 +1,2 @@
+simbolo;nome;atomico;linha;coluna;estado
+Hg;Mercurio;80;6;12;l
